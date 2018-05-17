@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lispy.dir/main.c.o  -o Lispy 

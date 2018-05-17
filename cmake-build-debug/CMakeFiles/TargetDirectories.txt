@@ -1,0 +1,3 @@
+/home/sashi/Code/CLionProjects/Lispy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sashi/Code/CLionProjects/Lispy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sashi/Code/CLionProjects/Lispy/cmake-build-debug/CMakeFiles/Lispy.dir
